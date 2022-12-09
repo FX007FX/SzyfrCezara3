@@ -1,1 +1,3 @@
-Program porównujący (szyfr cezara), czy słowa zostały dobrze zaszyfrowane
+#Szyfr cezara#
+
+Program odczytuje słowa oraz ich zaszyfrowane odpowiedniki, podane w pliku tekstowym, i porównuje poprawność ich szyfrowania.
